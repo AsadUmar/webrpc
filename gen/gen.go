@@ -1,7 +1,7 @@
 package gen
 
 import (
-	"gitlab.com/logement3d/webrpc/schema"
+	"github.com/webrpc/webrpc/schema"
 )
 
 type Generator interface {

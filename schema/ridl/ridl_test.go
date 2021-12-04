@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"gitlab.com/logement3d/webrpc/schema"
+	"github.com/webrpc/webrpc/schema"
 )
 
 func newStringParser(s string) (*parser, error) {
